@@ -12,10 +12,7 @@ Do you require any of the following services ? *Hack Emails and Social Media Acc
 </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jennahacker&label=Profile%20views&color=0e75b6&style=flat" alt="jennahacker" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jenna-hacker" alt="jennahacker" /></a> </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=zenna-hacker)](https://github.com/ryo-ma/github-profile-trophy)
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zenna-hacker" alt="zenna-hacker" /></a> </p>
 
 - 📫 How to reach me *ranbroa@gmail.com*
 - 
